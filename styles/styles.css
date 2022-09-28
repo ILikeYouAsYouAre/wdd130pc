@@ -6,11 +6,10 @@ body {
 }
 
 nav {
-    background-color: rgb(162, 187, 49);
+    background-color: steelblue;
     padding: 16px;
     font-size: 1.5em;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    width: 100%;
 }
 
 a {
