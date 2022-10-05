@@ -1,4 +1,4 @@
-body {
+/* body {
     background-color: rgb(229, 213, 192);
     color: steelblue;
     text-align: center;
@@ -35,4 +35,21 @@ p {
 footer {
     background-color: steelblue;
     color: white;
+} */
+
+.main-para {
+    font-size: 1.5em;
+    line-height: 1.5em;
+}
+
+#active {
+    color: white;
+    background-color: steelblue;
+    padding: 10px;
+    border: 10px;
+}
+
+a {
+    padding: 5px;
+    border-style: solid;
 }
