@@ -1,4 +1,4 @@
-/* body {
+body {
     background-color: rgb(229, 213, 192);
     color: steelblue;
     text-align: center;
@@ -35,9 +35,9 @@ p {
 footer {
     background-color: steelblue;
     color: white;
-} */
+}
 
-.main-para {
+/* .main-para {
     font-size: 1.5em;
     line-height: 1.5em;
 }
@@ -52,4 +52,4 @@ footer {
 a {
     padding: 5px;
     border-style: solid;
-}
+} */
