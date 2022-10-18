@@ -1,0 +1,46 @@
+body {
+    background-color: pink;
+    text-align: center;
+}
+
+#top-half {
+    width: 20%;
+    margin: 0 auto;
+}
+
+ol {
+    text-align: left;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+img {
+    width: 7%;
+}
+
+#hover-heading {
+    color: white;
+    font-family: sans-serif;
+}
+
+#hover-heading:hover {
+    color: black;
+}
+
+#russel-quote {
+    font-size: 28px;
+    color: white;
+    font-family: serif;
+}
+
+#bottom-half {
+    width: 13%;
+    margin: 0 auto;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+/* * {
+    border: 1px solid blue;
+} */
