@@ -1,0 +1,19 @@
+body {
+    background-color: grey;
+    margin: 0;
+}
+
+#title-image {
+    width: 100%;
+}
+
+.ice-images {
+    border: 15px solid dimgrey;
+    border-radius: 50%;
+    width: 350px;
+    margin: 50px 120px;
+}
+
+/* *{
+    border: 2px solid blue;
+} */
